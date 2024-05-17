@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: linear-gradient(to right, rgba(209, 182, 220, 0.09), rgba(145, 107, 152, 0.1));
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;       
+}
+
+.footer-bg-color{
+    background: #ede9ee8a;
+}
